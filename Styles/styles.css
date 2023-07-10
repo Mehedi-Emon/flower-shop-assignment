@@ -1,8 +1,10 @@
+/* google font */
 body {
     font-family: 'Open Sans', sans-serif;
     font-family: 'Poppins', sans-serif;
 }
 
+/* header part */
 .button-primary {
     border-radius: 6px;
     background-color: magenta;
@@ -16,12 +18,6 @@ body {
 
 .header-container {
     background: rgba(229, 84, 115, 0.10);
-
-
-
-
-
-
 }
 
 .header-container {
@@ -96,4 +92,36 @@ body {
 .text {
     padding-left: 100px;
     text-decoration: underline
+}
+
+
+/* Sale up part */
+.sale-offer-container {
+    display: flex;
+    margin-top: 70px;
+    margin-left: 50px;
+    margin-right: 180px;
+
+}
+
+.off-part {
+    color: magenta;
+}
+
+.main-image {
+    margin-left: 50px;
+}
+
+.main-bg-image {
+    background: rgba(41, 39, 40, 0.1);
+}
+
+/* instagram-info  */
+
+.insta-info {
+    text-align: center;
+    margin-top: 50px;
+    background: rgba(229, 84, 115, 0.10);
+    margin-top: 100px;
+
 }
