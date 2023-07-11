@@ -176,8 +176,8 @@ body {
     text-align: center;
 }
 
-/* hot deal section end */
-/* Subscribe Section start */
+/* hot deal section done */
+
 
 
 .contact {
@@ -238,4 +238,31 @@ body {
     border: 1px solid #000;
     background: transparent;
     color: #272727;
+}
+
+/* footer part */
+.footer {
+    width: 100%px;
+    height: 320px;
+    background: black;
+}
+
+.footer .foot-h1 {
+    color: #fff;
+    text-align: center;
+    padding-top: 100px;
+    font-size: 35px;
+}
+
+.footer .foot-p {
+    color: #fff;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.footer .foot-copy {
+    color: magenta;
+    text-align: center;
+    padding-top: 15px;
+    margin-top: 10px;
 }
