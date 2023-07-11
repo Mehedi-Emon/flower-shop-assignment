@@ -131,3 +131,30 @@ body {
     border-radius: 0;
 
 }
+
+/* Latest deals and subscription option  */
+.input-tag {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+
+    font-weight: 400;
+}
+
+.deals {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.last-button {
+    margin-top: 20px;
+    background-color: magenta;
+    border: 0;
+    margin-top: 10px;
+
+}
+
+.deals {
+    margin-top: 220px;
+}
