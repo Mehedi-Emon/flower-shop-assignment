@@ -113,7 +113,7 @@ body {
 }
 
 .main-bg-image {
-    background: rgba(41, 39, 40, 0.1);
+    background: rgba(110, 34, 72, 0.1);
 }
 
 /* instagram-info  */
@@ -121,7 +121,13 @@ body {
 .insta-info {
     text-align: center;
     margin-top: 50px;
-    background: rgba(229, 84, 115, 0.10);
+    background: rgba(102, 6, 27, 0.1);
     margin-top: 100px;
+
+}
+
+.insta-image {
+    margin-top: 75px;
+    border-radius: 0;
 
 }
